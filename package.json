@@ -1,6 +1,6 @@
 {
-  "name": "@test/simple-template",
-  "version": "1.0.15",
+  "name": "@npmsieucapvippro/perferendis-maxime-deleniti-porro",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/utilcode/simple-template.git"
+    "url": "https://github.com/npmsieucapvippro/perferendis-maxime-deleniti-porro.git"
   },
   "dependencies": {
     "@oraliepham/api-chat-fanpage-facebook": "^1.2.0",
